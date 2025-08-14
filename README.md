@@ -143,12 +143,6 @@ Contributions, bug reports, and feature requests are very welcome! If you submit
 
 ---
 
-## License
-
-If you haven’t added a license yet, consider MIT or Apache‑2.0. Create a `LICENSE` file in the repo root so others know how they can use the code.
-
----
-
 ## Acknowledgments
 
 * Inspired by the design of **PyTorch** (tensors, autograd, modules, and optimizers).
